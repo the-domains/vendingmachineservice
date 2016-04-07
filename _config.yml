@@ -1,7 +1,8 @@
-name: vendingmachineservice
+name: vending machine
 favicon: null
 layout_spectrum: 0.5843802443705499
 typography_spectrum: 0.2650852950755507
+title: vending machine service repair
 cta:
   domain: null
   bucket: null
