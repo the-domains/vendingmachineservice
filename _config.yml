@@ -1,6 +1,6 @@
 name: vending machine
 favicon: null
-layout_spectrum: 0.5843802443705499
+layout_spectrum: 1
 typography_spectrum: 0.2650852950755507
 title: vending machine service repair
 cta:
@@ -23,7 +23,7 @@ color:
     - '#165600'
     - '#f37a92'
   brandStrength: 0.5
-  lightness: 0.4855337382759899
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
