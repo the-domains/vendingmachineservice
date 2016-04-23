@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vending machine service repair]]></title>
         <description><![CDATA[vending machine service repair]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vendingmachineservice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 01:23:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 06:01:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vendingmachineservice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Selectivend Multi-Vending Machine with Stand - Sam's Club]]></title>
+            <description><![CDATA[<article><h1>Selectivend Multi-Vending Machine with Stand - Sam's Club</h1><p>Buy Selectivend Multi-Vending Machine with Stand : Gumball Machines at SamsClub.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/867e9e648ef871ed0f4d4ea56ef3ff8cb091ea6b.png"></article>]]></description>
+            <link>http://www.samsclub.com/sams/selectivend-multi-vending-machine-with-stand/101409.ip?pid=_CSE_CR_RMKT_Gumball%20Machines&amp;sourceid=cri1234567890123456789012345678901234567890&amp;CA_6C15C=730010300000578682</link>
+            <guid isPermaLink="false">75468546-959f-4734-bb0a-f9304751d7d6</guid>
+            <pubDate>Sat, 23 Apr 2016 06:01:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://dsvendinginc.com/App_Themes/Skin_1/images/home-image/large.jpg">]]></description>
-            <link>undefined74b465b9-6fa6-43fc-b2f7-9cb19c562db4/index.html</link>
+            <link>https://thegrid.ai/vendingmachineservice/74b465b9-6fa6-43fc-b2f7-9cb19c562db4/index.html</link>
             <guid isPermaLink="false">74b465b9-6fa6-43fc-b2f7-9cb19c562db4</guid>
             <pubDate>Fri, 08 Apr 2016 01:23:08 GMT</pubDate>
         </item>
